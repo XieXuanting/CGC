@@ -9,12 +9,12 @@ scipy                    1.7.3
 
 
 ### If you find this useful, please cite:
-@article{xie2023contrastive,
-  title={Contrastive graph clustering with adaptive filter},
-  author={Xie, Xuanting and Chen, Wenyu and Kang, Zhao and Peng, Chong},
-  journal={Expert Systems with Applications},
-  volume={219},
-  pages={119645},
-  year={2023},
-  publisher={Elsevier}
+@article{xie2023contrastive, \\
+  title={Contrastive graph clustering with adaptive filter}, \\
+  author={Xie, Xuanting and Chen, Wenyu and Kang, Zhao and Peng, Chong},\\
+  journal={Expert Systems with Applications},\\
+  volume={219},\\
+  pages={119645},\\
+  year={2023},\\
+  publisher={Elsevier}\\
 }
